@@ -1,0 +1,9 @@
+Rank,SDG,Between_Variance,Within_Variance,Pct_Between,Total_Variance
+1,Poverty (1),942.66,112.03,89.4,1054.69
+2,Education (4),685.34,51.11,93.1,736.45
+3,Inequality (10),639.11,83.25,88.5,722.36
+4,Energy (7),468.81,25.41,94.8,494.22
+5,Health (3),464.12,30.65,93.8,494.77
+6,Climate (13),264.2,4.84,98.2,269.03999999999996
+7,Institutions (16),221.87,4.6,98.0,226.47
+8,Growth (8),60.75,5.07,92.3,65.82
