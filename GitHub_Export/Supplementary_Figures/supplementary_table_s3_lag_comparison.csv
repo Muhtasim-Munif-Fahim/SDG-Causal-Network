@@ -1,4 +1,0 @@
-Lag_Order,Parameters,AIC,BIC,Log_Likelihood,Preferred_AIC,Preferred_BIC
-VAR(1),64,11809.4,12407.2,-92633.53,,✓
-VAR(2),128,11724.6,12876.1,-92170.06,✓,
-VAR(3),192,11721.3,13445.8,-91853.1,,
